@@ -1,8 +1,8 @@
 # CompBio_Assignment
 
-Name: Tirza Gabriella
-NIM: 2602109870
-Class: L5BC
+* Name: Tirza Gabriella
+* NIM: 2602109870
+* Class: L5BC
 
 ## Feature:
 DNA to mRNA Conversion: Converts a DNA sequence into its complementary mRNA sequence.
